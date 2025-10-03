@@ -70,16 +70,6 @@ List created successfully!
 
 ---
 
-## Screenshots
-
-*Replace these placeholders with actual screenshots after running the program.*
-
-![Main Menu](screenshots/main_menu.png)  
-![SLL Menu](screenshots/sll_menu.png)  
-![DLL Menu](screenshots/dll_menu.png)  
-
----
-
 ## Features & Learning Outcomes
 
 - Hands-on practice with **dynamic memory allocation** (`malloc` / `free`)  
