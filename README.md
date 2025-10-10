@@ -9,7 +9,7 @@
 ```
 linked-list-project/
 │
-├── main.c        # Main menu and program entry
+├── main.c        # Main menu and program entry aka named interlude.c in this repo
 ├── sll.h         # Singly Linked List header
 ├── sll.c         # Singly Linked List implementation
 ├── dll.h         # Doubly Linked List header
